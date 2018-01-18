@@ -22,8 +22,8 @@
   color: #ffc18b;
 }
 .quotes {
-  font-style: italic;
   color: #d7d7d7;
+  font-style: italic;
 }
 .quotes::before,
 .quotes::after {
