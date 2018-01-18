@@ -23,6 +23,7 @@
 }
 .quotes {
   font-style: italic;
+  color: #d7d7d7;
 }
 .quotes::before,
 .quotes::after {
